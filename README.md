@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="AI2Kt" src="https://user-images.githubusercontent.com/28837746/196346557-c0b5f27b-8e08-4083-9510-5b6ad34fd42f.png" />
+</p>
+
 # AI2Kt
 
 Framework to write Android apps in Kotlin with App Inventor-like experience.
